@@ -25,3 +25,4 @@
 !.gitignore
 !.gitattributes
 !.gitmodules
+!.gitconfig
