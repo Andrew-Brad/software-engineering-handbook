@@ -1,0 +1,27 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Temporary files #
+##################
+*.swp
+*.swo
+*.tmp
+*.temp
+*.DS_Store
+
+# Hidden files #
+###############
+.*
+*.$
+
+# Whitelist important files #
+###########################
+!.gitignore
+!.gitattributes
+!.gitmodules
